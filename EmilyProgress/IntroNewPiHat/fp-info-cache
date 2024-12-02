@@ -1,4 +1,4 @@
-24890720461118508
+24921896039996978
 Adafruit BNO055
 1X04_ROUND_76
 
@@ -105,6 +105,118 @@ SOT23-WIDE
 3
 3
 Adafruit BNO055
+_0805MP
+<b>0805 MicroPitch</b>
+
+0
+2
+2
+Adafruit BNO055 fix
+1X04_ROUND_76
+
+
+0
+4
+4
+Adafruit BNO055 fix
+1X06_ROUND_76
+
+
+0
+6
+6
+Adafruit BNO055 fix
+0805-NO
+
+
+0
+2
+2
+Adafruit BNO055 fix
+0805_10MGAP
+
+
+0
+2
+2
+Adafruit BNO055 fix
+ADAFRUIT_2.5MM
+
+
+0
+0
+0
+Adafruit BNO055 fix
+ADAFRUIT_TEXT_20MM
+
+
+0
+0
+0
+Adafruit BNO055 fix
+Adafruit_BPO055
+
+
+0
+17
+11
+Adafruit BNO055 fix
+BNO055
+
+
+0
+28
+28
+Adafruit BNO055 fix
+CRYSTAL_8X3.8
+<p>8.0x3.8x2.5mm SMT Crystal</p>{return}<p>Source: http://www.abracon.com/Resonators/abs25.pdf</p>
+
+0
+4
+4
+Adafruit BNO055 fix
+FIDUCIAL_1MM
+
+
+0
+1
+1
+Adafruit BNO055 fix
+MOUNTINGHOLE_2.5_PLATED_THICK
+
+
+0
+1
+1
+Adafruit BNO055 fix
+PCBFEAT-REV-040
+<b>Revision Level Field</b> - 40 mil<p>{return}Set version with global board attribute '>REV'
+
+0
+0
+0
+Adafruit BNO055 fix
+SOD-323
+<b>SOD323</b> (2.5x1.2mm)
+
+0
+2
+2
+Adafruit BNO055 fix
+SOT23-5
+<b>Small Outline Transistor</b> - 5 Pin
+
+0
+5
+5
+Adafruit BNO055 fix
+SOT23-WIDE
+
+
+0
+3
+3
+Adafruit BNO055 fix
 _0805MP
 <b>0805 MicroPitch</b>
 
@@ -90460,6 +90572,13 @@ WiFi IEEE802.11 b/g/n
 0
 44
 44
+RPI_Hat
+RPI_Hat_B+
+
+
+0
+40
+40
 RPI_ZERO_2W
 MODULE_RASPBERRY_PI_ZERO_2_W
 
@@ -100806,3 +100925,10 @@ Varistor VF
 0
 2
 2
+XT30PW-M
+AMASS_XT30PW-M
+
+
+0
+4
+4
